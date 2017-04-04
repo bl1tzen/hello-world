@@ -1,5 +1,4 @@
 # hello-world
-hello-world guide
 
 This is the beginning of my tech career. 
 
